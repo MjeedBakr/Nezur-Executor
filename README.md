@@ -9,3 +9,4 @@ Get started with Nezur Executor in just a few simple steps:
 🚀 **Nezur Executor** is a high-performance Roblox script executor designed for smooth script execution, enhanced gameplay, and seamless usability. Built with security in mind, it remains fully compatible with the latest Roblox updates, offering a stable and efficient experience for gamers, developers, and modding enthusiasts.
 
 
+
